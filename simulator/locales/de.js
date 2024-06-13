@@ -62,6 +62,12 @@ locales["de"] = {
   "toolname_ParabolicMirror": {
     "message": "Parabolspiegel"
   },
+  "toolname_OffaxisParabolicMirror": {
+    "message": "Off-Axis Parabolspiegel"
+  },
+  "toolname_EllipticMirror": {
+    "message": "Ellipse"
+  },
   "toolname_CustomMirror": {
     "message": "Spiegel"
   },
@@ -207,6 +213,12 @@ locales["de"] = {
   },
   "tool_ParabolicMirror": {
     "message": "Parabolspiegel"
+  },
+    "tool_OffaxisParabolicMirror": {
+    "message": "Off-Axis Parabolspiegel"
+  },
+  "tool_EllipticMirror": {
+    "message": "Ellipse"
   },
   "tool_CustomMirror": {
     "message": "Benutzerdefinierte Gleichung"
@@ -712,6 +724,12 @@ locales["de"] = {
   },
   "tool_ParabolicMirror_popover": {
     "message": "Ein parabolischer Spiegel, definiert durch drei Punkte. (Ziehen oder Klicken zum Erzeugen.)"
+  },  
+  "tool_OffaxisParabolicMirror_popover": {
+    "message": "Off-Axis Parabolspiegel, definiert durch Spiegelmitte, Fokuspunkt, Lichteinfallsrichtung und Spiegeldurchmesser."
+  },
+  "tool_EllipticMirror_popover": {
+    "message": "Ein elliptischer Spiegel, definiert durch fünf Punkte. (Ziehen oder Klicken zum Erzeugen.)"
   },
   "tool_CustomMirror_popover": {
     "message": "Ein Spiegel dessen Form durch eine Gleichung y = f(x) bestimmt ist, wobei (x,y) transformierte Koordinaten sind mit den Randpunkten (-1,0) und (1,0). (Ziehen oder Klicken zum Erzeugen.)"

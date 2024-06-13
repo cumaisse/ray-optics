@@ -60,6 +60,9 @@ locales["en"] = {
   "toolname_ParabolicMirror": {
     "message": "Mirror"
   },
+    "toolname_OffaxisParabolicMirror": {
+    "message": "Off-Axis Parabolic mirror"
+  },
   "toolname_CustomMirror": {
     "message": "Mirror"
   },
@@ -197,6 +200,9 @@ locales["en"] = {
   },
   "tool_ParabolicMirror": {
     "message": "Parabolic"
+  },
+  "tool_OffaxisParabolicMirror": {
+    "message": "Off-axis Parabolic"
   },
   "tool_CustomMirror": {
     "message": "Custom Equation"
@@ -632,6 +638,9 @@ locales["en"] = {
   },
   "tool_ParabolicMirror_popover": {
     "message": "A mirror whose shape is a parabola, which is defined by three points. (Drag or click to create.)"
+  },  
+  "tool_OffaxisParabolicMirror_popover": {
+    "message": "Off-Axis Parabolic mirror defined by mirror center, focus point, light incidence direction, and mirror diameter"
   },
   "tool_CustomMirror_popover": {
     "message": "A mirror whose shape is defined by a custom equation y = f(x), where (x,y) is in the transformed coordinates in which the two control points are (-1,0) and (1,0). (Drag or click to create.)"
